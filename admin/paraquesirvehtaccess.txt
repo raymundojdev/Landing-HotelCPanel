@@ -1,0 +1,12 @@
+sirve para crear urL amigables y para evitar que alguien ageno pueda ver las carpetas  o nuestro contenido
+
+para evitar que puedan ver el contenido es
+Options All -Indexes
+
+Para crear las url amigables habilitamos el modulo este modulo nos permite hacer reescritura para modificar lo que se nos va a enviar atra vez de las url:
+
+RewriteEngine On
+
+Activamos la regla de la reescritura, y luego colocamos una expresion regular y dentro de los corchetes ponemos los caracteres que permitiremos ingresar en la url permitimos letas de la a ala z en  minuscula y de la A ala Z en mayuscula no se permitiran numeros ni guiones ni caracteres especiales
+
+RewriteRule ^([a-zA-Z]+)$ index.php?url=$1
