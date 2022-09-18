@@ -27,4 +27,4 @@ TECNOLOGIAS UTILIZADAS:
 
 <img src="Vistas/images/hotel9.png">
 
-<img src="Vistas/images/hotel10.png">
+<img src="Vistas/images/hotel10.png"> 
