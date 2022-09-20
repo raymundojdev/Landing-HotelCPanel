@@ -4,7 +4,7 @@
 TECNOLOGIAS UTILIZADAS:
 
 * PHP * JAVASCRIPT * AJAX *HTML *CSS 
-*AJAX *MYSQL
+*AJAX  *MYSQL
 ```
 
 <img src="Vistas/images/hotello.png">
